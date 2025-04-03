@@ -80,6 +80,3 @@ php artisan queue:work
 
 ### Notes
 - Ensure mail credentials are correctly set in .env.
-- Admin users must be manually assigned via database or a seeder.
-- Verified users cannot access the OTP verification screen again.
-- Logout prevents back navigation for security reasons.
